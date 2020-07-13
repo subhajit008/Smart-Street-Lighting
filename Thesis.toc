@@ -1,0 +1,54 @@
+\contentsline {chapter}{Declaration of Authorship}{i}{dummy.1}%
+\vspace {1em}
+\contentsline {chapter}{Abstract}{iii}{dummy.2}%
+\vspace {1em}
+\contentsline {chapter}{Acknowledgements}{iv}{dummy.3}%
+\vspace {1em}
+\contentsline {chapter}{List of Figures}{vii}{dummy.5}%
+\contentsline {chapter}{List of Tables}{viii}{dummy.7}%
+\contentsline {chapter}{Abbreviations}{ix}{dummy.9}%
+\contentsline {chapter}{Physical Constants}{x}{dummy.12}%
+\contentsline {chapter}{Symbols}{xi}{dummy.15}%
+\vspace {2em}
+\contentsline {chapter}{\numberline {1}Introduction}{1}{chapter.18}%
+\contentsline {section}{\numberline {1.1}Background of Study}{1}{section.19}%
+\contentsline {section}{\numberline {1.2}Implications \& solutions}{2}{section.20}%
+\contentsline {subsubsection}{\numberline {1.2.0.1}Demerits of Classical Street Light}{2}{subsubsection.21}%
+\contentsline {subsection}{\numberline {1.2.1}conclusion}{3}{subsection.22}%
+\contentsline {chapter}{\numberline {2}Public Street and Road Lighting}{4}{chapter.23}%
+\contentsline {section}{\numberline {2.1}Basic Features of Street Light Luminaires}{4}{section.24}%
+\contentsline {section}{\numberline {2.2}Main Objectives of Street Lighting Design Scheme}{5}{section.25}%
+\contentsline {section}{\numberline {2.3}Main Factors in the Street Lighting Design Scheme}{5}{section.29}%
+\contentsline {section}{\numberline {2.4}Classification of Roads}{7}{section.31}%
+\contentsline {section}{\numberline {2.5}Types of Distribution of Light in Roadway Lighting}{7}{section.32}%
+\contentsline {subsection}{\numberline {2.5.1}The following are the types of vertical distribution of light}{7}{subsection.33}%
+\contentsline {subsubsection}{\numberline {2.5.1.1}Cut-off}{7}{subsubsection.35}%
+\contentsline {subsubsection}{\numberline {2.5.1.2}Non-cut-off medium angle beam}{8}{subsubsection.36}%
+\contentsline {subsubsection}{\numberline {2.5.1.3}Semi-cut-off (non-cut-off high angle beam)}{8}{subsubsection.37}%
+\contentsline {subsection}{\numberline {2.5.2}The types of horizont al distribution of light are}{8}{subsection.38}%
+\contentsline {subsubsection}{\numberline {2.5.2.1}Symmetrical distribution}{8}{subsubsection.40}%
+\contentsline {subsubsection}{\numberline {2.5.2.2}Axial distribution}{9}{subsubsection.41}%
+\contentsline {subsubsection}{\numberline {2.5.2.3}Non-axial distribution}{9}{subsubsection.42}%
+\contentsline {subsection}{\numberline {2.5.3}Mounting Height}{9}{subsection.43}%
+\contentsline {subsection}{\numberline {2.5.4}Spacing}{9}{subsection.44}%
+\contentsline {subsection}{\numberline {2.5.5}Outreach}{10}{subsection.45}%
+\contentsline {subsection}{\numberline {2.5.6}Overhang}{10}{subsection.47}%
+\contentsline {section}{\numberline {2.6}Spread and Throw Angle of Street Light Luminaire}{11}{section.48}%
+\contentsline {subsection}{\numberline {2.6.1}Spread angle}{11}{subsection.49}%
+\contentsline {subsection}{\numberline {2.6.2}Throw angle}{11}{subsection.50}%
+\contentsline {section}{\numberline {2.7}Pole Arrangement Schemes in Street Lighting Design}{11}{section.51}%
+\contentsline {subsection}{\numberline {2.7.1}Single side arrangement}{11}{subsection.52}%
+\contentsline {subsection}{\numberline {2.7.2}Staggered arrangement}{11}{subsection.53}%
+\contentsline {subsection}{\numberline {2.7.3}Opposite mounting}{12}{subsection.54}%
+\contentsline {subsection}{\numberline {2.7.4}Axial mounting}{12}{subsection.55}%
+\contentsline {section}{\numberline {2.8}Recommended Levels of Illumination}{12}{section.56}%
+\contentsline {section}{\numberline {2.9}Illumination of Traffics Rotaries}{12}{section.57}%
+\contentsline {section}{\numberline {2.10}Illumination on Curves}{12}{section.58}%
+\contentsline {section}{\numberline {2.11}Illumination of Intersections}{13}{section.59}%
+\contentsline {section}{\numberline {2.12}Illumination of Bridges}{13}{section.60}%
+\contentsline {section}{\numberline {2.13}High-Mast Lighting}{13}{section.61}%
+\contentsline {section}{\numberline {2.14}Types of Lights}{13}{section.62}%
+\vspace {2em}
+\contentsline {chapter}{\numberline {A}An Appendix}{14}{appendix.63}%
+\vspace {2em}
+\contentsline {chapter}{Bibliography}{16}{dummy.64}%
