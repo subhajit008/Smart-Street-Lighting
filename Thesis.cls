@@ -156,8 +156,8 @@
                 {Jadavpur University}}
                 {Jadavpur University}}
 \department  {\texorpdfstring{\href{Department or School Web Site URL Here (include http://)}
-                {SISED}}
-                {SISED}}
+                { School of Illumination Science, Engineering \& Design}}
+                {School of Illumination Science, Engineering \& Design}}
 \DEPARTMENT  {\texorpdfstring{\href{Department or School Web Site URL Here (include http://)}
                 {DEPARTMENT OR SCHOOL NAME (IN BLOCK CAPITALS)}}
                 {DEPARTMENT OR SCHOOL NAME (IN BLOCK CAPITALS)}}
@@ -244,7 +244,7 @@
     {\normalsize \facname \par}
     {\normalsize \deptname \par}
     \bigskip
-    {\normalsize Doctor of Philosophy\par}
+    {\normalsize Master of Technology\par}
     \bigskip
     {\normalsize\bf \@title \par}
     \medskip

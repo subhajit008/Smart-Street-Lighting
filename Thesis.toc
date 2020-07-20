@@ -34,21 +34,21 @@
 \contentsline {subsection}{\numberline {2.5.5}Outreach}{10}{subsection.45}%
 \contentsline {subsection}{\numberline {2.5.6}Overhang}{10}{subsection.47}%
 \contentsline {section}{\numberline {2.6}Spread and Throw Angle of Street Light Luminaire}{11}{section.48}%
-\contentsline {subsection}{\numberline {2.6.1}Spread angle}{11}{subsection.49}%
-\contentsline {subsection}{\numberline {2.6.2}Throw angle}{11}{subsection.50}%
-\contentsline {section}{\numberline {2.7}Pole Arrangement Schemes in Street Lighting Design}{11}{section.51}%
-\contentsline {subsection}{\numberline {2.7.1}Single side arrangement}{11}{subsection.52}%
-\contentsline {subsection}{\numberline {2.7.2}Staggered arrangement}{11}{subsection.53}%
-\contentsline {subsection}{\numberline {2.7.3}Opposite mounting}{12}{subsection.54}%
-\contentsline {subsection}{\numberline {2.7.4}Axial mounting}{12}{subsection.55}%
-\contentsline {section}{\numberline {2.8}Recommended Levels of Illumination}{12}{section.56}%
-\contentsline {section}{\numberline {2.9}Illumination of Traffics Rotaries}{12}{section.57}%
-\contentsline {section}{\numberline {2.10}Illumination on Curves}{12}{section.58}%
-\contentsline {section}{\numberline {2.11}Illumination of Intersections}{13}{section.59}%
-\contentsline {section}{\numberline {2.12}Illumination of Bridges}{13}{section.60}%
-\contentsline {section}{\numberline {2.13}High-Mast Lighting}{13}{section.61}%
-\contentsline {section}{\numberline {2.14}Types of Lights}{13}{section.62}%
+\contentsline {subsection}{\numberline {2.6.1}Spread angle}{11}{subsection.50}%
+\contentsline {subsection}{\numberline {2.6.2}Throw angle}{11}{subsection.51}%
+\contentsline {section}{\numberline {2.7}Pole Arrangement Schemes in Street Lighting Design}{12}{section.52}%
+\contentsline {subsection}{\numberline {2.7.1}Single side arrangement}{12}{subsection.54}%
+\contentsline {subsection}{\numberline {2.7.2}Staggered arrangement}{12}{subsection.55}%
+\contentsline {subsection}{\numberline {2.7.3}Opposite mounting}{13}{subsection.56}%
+\contentsline {subsection}{\numberline {2.7.4}Axial mounting}{13}{subsection.57}%
+\contentsline {section}{\numberline {2.8}Recommended Levels of Illumination}{13}{section.58}%
+\contentsline {section}{\numberline {2.9}Illumination of Traffics Rotaries}{13}{section.60}%
+\contentsline {section}{\numberline {2.10}Illumination on Curves}{14}{section.61}%
+\contentsline {section}{\numberline {2.11}Illumination of Intersections}{14}{section.63}%
+\contentsline {section}{\numberline {2.12}Illumination of Bridges}{15}{section.64}%
+\contentsline {section}{\numberline {2.13}High-Mast Lighting}{15}{section.65}%
+\contentsline {section}{\numberline {2.14}Types of Lights}{15}{section.66}%
 \vspace {2em}
-\contentsline {chapter}{\numberline {A}An Appendix}{14}{appendix.63}%
+\contentsline {chapter}{\numberline {A}An Appendix}{17}{appendix.68}%
 \vspace {2em}
-\contentsline {chapter}{Bibliography}{16}{dummy.64}%
+\contentsline {chapter}{Bibliography}{19}{dummy.69}%
